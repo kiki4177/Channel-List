@@ -1,21 +1,4 @@
-
-
-#EXTM3U url-tvg="https://azimabid00.github.io/epg/astro_epg.xml, https://bit.ly/pondan-epg, https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml, https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml, https://i.mjh.nz/PlutoTV/all.xml" refresh="720" billed-msg="Sila hubungi Admin untuk akses"
-
-#EXTINF:-1 group-logo="https://iili.io/H7B4QYF.png" group-title="1. MAAF, AKSES ANDA DISEKAT."
-#EXTINF:-1 tvg-id="" ch-number="" tvg-logo="https://iili.io/H7B4QYF.png",SOUND TEST
-https://www.dropbox.com/scl/fi/xnmzv3glksm58ll20ppgl/7.1-dolby-atmos-audio-test-720P_HD.mp4?rlkey=ve2fuyuf5oei2ak0h8eesso52&st=u5vqnnsd&dl=1
-
-#EXTINF:-1 group-logo="https://iili.io/H7B4QYF.png" group-title="2. SILA DAPATKAN BANTUAN ADMIN."
-#EXTINF:-1 tvg-id="" ch-number="" tvg-logo="https://iili.io/H7B4QYF.png",SOUND TEST
-https://www.dropbox.com/scl/fi/xnmzv3glksm58ll20ppgl/7.1-dolby-atmos-audio-test-720P_HD.mp4?rlkey=ve2fuyuf5oei2ak0h8eesso52&st=u5vqnnsd&dl=1
-
-#EXTINF:-1 group-logo="https://iili.io/H7B4QYF.png" group-title="3. UNTUK AKSES MASUK."
-#EXTINF:-1 tvg-id="" ch-number="" tvg-logo="https://iili.io/H7B4QYF.png",SOUND TEST
-https://www.dropbox.com/scl/fi/xnmzv3glksm58ll20ppgl/7.1-dolby-atmos-audio-test-720P_HD.mp4?rlkey=ve2fuyuf5oei2ak0h8eesso52&st=u5vqnnsd&dl=1
-
-
-
-
-
-
+#EXTINF:-1 group-title="Singapore" tvg-id="Ch 8" tvg-name="Channel 8" tvg-chno="" group-logo="https://i.ibb.co/BzXszsr/flag-singapore-round-frame-1308-71152.jpg" tvg-logo="https://i.ibb.co/zsDGJDK/trtrtrt.jpg",Channel 8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a4315e7266024dfc9ddb9667727d9635:485a55859fda05a1e3e8ae1ae63906e8 
+#https://tglmp02.akamaized.net/out/v1/423fa206c4ea458ebe83d6edd172eb10/manifest.mpd
