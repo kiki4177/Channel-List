@@ -1,18 +1,12 @@
 
 
-#EXTM3U url-tvg="https://azimabid00.github.io/epg/astro_epg.xml, https://bit.ly/pondan-epg, https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml, https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml, https://i.mjh.nz/PlutoTV/all.xml" refresh="720" billed-msg="Sila hubungi Admin untuk akses semula ke JSTORE Channel." vod_library="https://www.dropbox.com/scl/fi/uwgoomusv6wgw2b0qi00f/Expired-Vod.txt?rlkey=ddkngwciraks7cw332h64bg85&st=ss7wjh13&dl=1" 
+#EXTM3U url-tvg="https://azimabid00.github.io/epg/astro_epg.xml, https://bit.ly/pondan-epg, https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml, https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml, https://i.mjh.nz/PlutoTV/all.xml" refresh="720" billed-msg="Sila hubungi Admin." 
 
-#EXTINF:-1 group-logo="https://iili.io/H7B4QYF.png" group-title="1. MAAF, AKSES ANDA DISEKAT."
+#EXTINF:-1 group-logo="https://iili.io/H7B4QYF.png" group-title="NO ACCESS"
 #EXTINF:-1 tvg-id="" ch-number="" tvg-logo="https://iili.io/H7B4QYF.png",SOUND TEST
-https://www.dropbox.com/scl/fi/xnmzv3glksm58ll20ppgl/7.1-dolby-atmos-audio-test-720P_HD.mp4?rlkey=ve2fuyuf5oei2ak0h8eesso52&st=u5vqnnsd&dl=1
+https://www.dropbox.com/scl/fi/xnmz/7.1-dolby-atmos-audio-test-720P_HD.mp4?rlkey=ve2fuyuf5oei2ak0h8eesso52&st=u5vqnnsd&dl=1
 
-#EXTINF:-1 group-logo="https://iili.io/H7B4QYF.png" group-title="2. SILA DAPATKAN BANTUAN ADMIN."
-#EXTINF:-1 tvg-id="" ch-number="" tvg-logo="https://iili.io/H7B4QYF.png",SOUND TEST
-https://www.dropbox.com/scl/fi/xnmzv3glksm58ll20ppgl/7.1-dolby-atmos-audio-test-720P_HD.mp4?rlkey=ve2fuyuf5oei2ak0h8eesso52&st=u5vqnnsd&dl=1
 
-#EXTINF:-1 group-logo="https://iili.io/H7B4QYF.png" group-title="3. UNTUK AKSES MASUK."
-#EXTINF:-1 tvg-id="" ch-number="" tvg-logo="https://iili.io/H7B4QYF.png",SOUND TEST
-https://www.dropbox.com/scl/fi/xnmzv3glksm58ll20ppgl/7.1-dolby-atmos-audio-test-720P_HD.mp4?rlkey=ve2fuyuf5oei2ak0h8eesso52&st=u5vqnnsd&dl=1
 
 
 
