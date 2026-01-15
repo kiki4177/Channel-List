@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="AKSES DITOLAK" group-title="HUBUNGI ADMIN UNTUK DAPATKAN AKSES",AKSES DITOLAK
+#EXTINF:-1 tvg-name="AKSES DITOLAK" group-title="SYSTEM",AKSES DITOLAK
 http://127.0.0.1/akses_ditolak
