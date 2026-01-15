@@ -1,3 +1,7 @@
 #EXTM3U
+
 #EXTINF:-1 tvg-name="AKSES DITOLAK" group-title="SYSTEM",AKSES DITOLAK
-http://127.0.0.1/akses_ditolak
+http://0.0.0.0/blocked
+
+#EXTINF:-1 tvg-name="SILA HUBUNGI ADMIN UNTUK AKSES MASUK" group-title="SYSTEM",SILA HUBUNGI ADMIN UNTUK AKSES MASUK
+http://0.0.0.0/contact_admin
