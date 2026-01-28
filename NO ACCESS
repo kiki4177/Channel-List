@@ -3,5 +3,8 @@
 #EXTINF:-1 group-logo="https://iili.io/fUx7fdG.png" tvg-name="AKSES DITOLAK" group-title="AKSES DITOLAK" tvg-logo="https://iili.io/fUx7fdG.png",AKSES DITOLAK
 http://0.0.0.0/blocked
 
+#EXTINF:-1 group-logo="https://iili.io/fUx7fdG.png" tvg-name="1 ID 1 DEVICE ONLY" group-title="AKSES DITOLAK" tvg-logo="https://iili.io/fUx7fdG.png",AKSES DITOLAK
+http://0.0.0.0/blocked
+
 #EXTINF:-1 group-logo="https://iili.io/fUx7fdG.png" tvg-name="SILA HUBUNGI ADMIN UNTUK AKSES MASUK" group-title="SILA HUBUNGI ADMIN" tvg-logo="https://iili.io/fUx7fdG.png",SILA HUBUNGI ADMIN UNTUK AKSES MASUK
 http://0.0.0.0/contact_admin
